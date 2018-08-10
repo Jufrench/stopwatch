@@ -1,5 +1,6 @@
 # stopwatch
-JavaScript stopwatch app for studying state &amp; behavior
+JavaScript stopwatch app for studying state &amp; behavior<br>
+To use the app, click https://edx-stopwatch.glitch.me/
 
 * Users can click the buttons to operate the stopwatch
 * Users can press the following keys to operate the stopwatch:<br>
