@@ -7,7 +7,7 @@ To use the app, click https://edx-stopwatch.glitch.me/
 &nbsp;&nbsp;&nbsp;'s' - start/stop<br>
 &nbsp;&nbsp;&nbsp;'r' - reset<br>
 &nbsp;&nbsp;&nbsp;'t' - log current time
-
+<hr>
 
   ### Using clicks
 
