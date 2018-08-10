@@ -11,7 +11,3 @@ JavaScript stopwatch app for studying state &amp; behavior
   ### Using clicks
 
   ![Clicks](/assets/stopwatch.gif)
-
-  ## Chosen amount is more than availability
-
-  ![Too Much](/gifs/giphy3.gif)
