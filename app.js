@@ -26,7 +26,8 @@ function stopTimer() {
 
 function resetTimer() {
   stopTimer();
-  timeCount.innerHTML = 0;
+  count = 0;
+  timeCount.innerHTML = count;
   document.getElementById('past-times').innerHTML = '';
 }
 
