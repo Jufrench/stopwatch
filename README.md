@@ -34,9 +34,3 @@ function stopTimer() {
 ```
 * When users clik the `reset` button, the `intervalState` is also set to `false`.
 * Logging the current time is achieved by standard *Vanilla JavaScript* DOM manipulation.
-
-* Users can click the buttons to operate the stopwatch
-* Users can press the following keys to operate the stopwatch:<br>
-&nbsp;&nbsp;&nbsp;'s' - start/stop<br>
-&nbsp;&nbsp;&nbsp;'r' - reset<br>
-&nbsp;&nbsp;&nbsp;'t' - log current time
