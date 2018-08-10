@@ -2,13 +2,13 @@
 JavaScript stopwatch app for studying state &amp; behavior
 
 * Users can click the buttons to operate the stopwatch
-* Users can press the following keys to operate the stopwatch:
-&nbsp;&nbsp;&nbsp;'s' - start/stop
-&nbsp;&nbsp;&nbsp;'r' - reset
+* Users can press the following keys to operate the stopwatch:<br>
+&nbsp;&nbsp;&nbsp;'s' - start/stop<br>
+&nbsp;&nbsp;&nbsp;'r' - reset<br>
 &nbsp;&nbsp;&nbsp;'t' - log current time
 
 
-  ## Using clicks
+  ### Using clicks
 
   ![Clicks](/assets/stopwatch.gif)
 
