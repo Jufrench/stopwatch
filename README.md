@@ -8,8 +8,6 @@ To use the app, click https://edx-stopwatch.glitch.me/
 &nbsp;&nbsp;&nbsp;'r' - reset<br>
 &nbsp;&nbsp;&nbsp;'t' - log current time
 
-<hr>
-
   ## Using clicks
 
   ![Clicks](/assets/stopwatch.gif)
