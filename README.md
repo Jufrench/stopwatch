@@ -9,7 +9,8 @@ To use the app, click https://edx-stopwatch.glitch.me/
 &nbsp;&nbsp;&nbsp;'t' - log current time
 
 <hr>
-  ### Using clicks
+
+  ## Using clicks
 
   ![Clicks](/assets/stopwatch.gif)
 <hr>
