@@ -15,7 +15,6 @@ function startTimer() {
   run = setInterval(function() {
     count++;
     timeCount.innerHTML = count / 100;
-    console.log(count);
   }, 10);
 }
 
