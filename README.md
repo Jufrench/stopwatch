@@ -2,6 +2,12 @@
 JavaScript stopwatch app for studying state &amp; behavior<br>
 To use the app, click https://edx-stopwatch.glitch.me/
 
+<hr>
+  ### Using clicks
+
+  ![Clicks](/assets/stopwatch.gif)
+<hr>
+
 * I created a variable named `intervalState` and set its initial value to `false`.
 * When users start the timer, the `intervalState` is set to `true`.
 ```JavaScript
@@ -28,8 +34,3 @@ function stopTimer() {
 &nbsp;&nbsp;&nbsp;'s' - start/stop<br>
 &nbsp;&nbsp;&nbsp;'r' - reset<br>
 &nbsp;&nbsp;&nbsp;'t' - log current time
-<hr>
-
-  ### Using clicks
-
-  ![Clicks](/assets/stopwatch.gif)
